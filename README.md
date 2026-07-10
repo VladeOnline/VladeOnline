@@ -22,5 +22,6 @@ Me llamo Vladimir Rosales .<br>Soy ingeniero en Software.<br>Me gusta la música
 ![](https://github-contributor-stats.vercel.app/api?username=Vladeonline&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-Gracias por ver...
+[![](https://komarev.com/ghpvc/?username=Vladeonline&icon=3&color=5)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
